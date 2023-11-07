@@ -1,0 +1,4 @@
+module(name = "example", version = "1.0")
+
+# old version to be updated...
+bazel_dep(name = "bazel_skylib", version = "1.2.0")
